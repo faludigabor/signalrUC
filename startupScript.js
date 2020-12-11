@@ -1,0 +1,1 @@
+jQuery( "#controlAddIn").append('<input type="text" id="messageInput"> <input type="button" id="sendButton" value="Send Message"><p> <ul id="messagesList"></ul>');
